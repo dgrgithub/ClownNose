@@ -1,0 +1,16 @@
+.btn-success:hover
+{
+    background-color: red
+}
+
+canvas {
+    animation-name: example;
+    animation-duration: 5s;
+}
+
+ @keyframes example {
+    from {box-shadow: 1px 1px 37px blue;}
+    to {box-shadow: 1px 1px 37px purple;}  
+ }
+
+  
